@@ -1,0 +1,10 @@
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_pasta\proje_pasta\bin\Debug\proje_pasta.exe.config
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_pasta\proje_pasta\bin\Debug\proje_pasta.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_pasta\proje_pasta\bin\Debug\proje_pasta.pdb
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_pasta\proje_pasta\obj\Debug\proje_pasta.csproj.AssemblyReference.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_pasta\proje_pasta\obj\Debug\proje_pasta.Form1.resources
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_pasta\proje_pasta\obj\Debug\proje_pasta.Properties.Resources.resources
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_pasta\proje_pasta\obj\Debug\proje_pasta.csproj.GenerateResource.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_pasta\proje_pasta\obj\Debug\proje_pasta.csproj.CoreCompileInputs.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_pasta\proje_pasta\obj\Debug\proje_pasta.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_pasta\proje_pasta\obj\Debug\proje_pasta.pdb
